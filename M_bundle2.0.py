@@ -1,3 +1,4 @@
+#M2.0
 def strback(a):
     b=[]
     for i in range(0,len(a)):
