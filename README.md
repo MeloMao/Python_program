@@ -1,2 +1,1 @@
-# mycode
-代码
+#This is a repository for Python code.
