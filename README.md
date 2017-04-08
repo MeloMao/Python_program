@@ -1,4 +1,4 @@
-# First of all
+# About this
 This is my little Python programs records.
 
 # Ceasar
