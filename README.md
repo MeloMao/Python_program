@@ -1,5 +1,5 @@
 # About this
-This is my little Python programs records.
+This is my little Python programs records(just write by myself).
 
 # Ceasar
 It's the most simple encrypt in the world. I achieved it by Python.
