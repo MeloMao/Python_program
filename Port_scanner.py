@@ -1,6 +1,5 @@
 ﻿#!/usr/bin/python
 #coding=utf-8
-import argparse
 import socket
 def connScan(tgtHost, tgtPort):
     try:
